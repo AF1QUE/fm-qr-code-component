@@ -1,0 +1,22 @@
+{
+  "name": "fm-qr-code-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AF1QUE/fm-qr-code-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AF1QUE/fm-qr-code-component/issues"
+  },
+  "homepage": "https://github.com/AF1QUE/fm-qr-code-component#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
