@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./dist/index.html"],
+  content: ["./index.html"],
   theme: {
     colors: {
       white: "hsl(0, 0%, 100%)",
